@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-todo-ayush/static/css/main.0b4e74b4.css",
+    "main.js": "/react-todo-ayush/static/js/main.91bc36f8.js",
+    "index.html": "/react-todo-ayush/index.html",
+    "main.0b4e74b4.css.map": "/react-todo-ayush/static/css/main.0b4e74b4.css.map",
+    "main.91bc36f8.js.map": "/react-todo-ayush/static/js/main.91bc36f8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b4e74b4.css",
+    "static/js/main.91bc36f8.js"
+  ]
+}
